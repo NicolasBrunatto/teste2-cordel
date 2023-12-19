@@ -6,16 +6,13 @@
     margin: 0px;
     padding: 0px;
 }
-
-/*
-
 header
 {
     background-color: black;
     text-align: center;
     color: white;
 }
-*/
+
 header > h1
 {
     font-family: 'Passion One', sans-serif;
@@ -26,9 +23,9 @@ header > p
 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-/*header > a
+header > a
 {
     
     text-decoration: none;
+    color: white;
 }
-*/
