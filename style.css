@@ -28,13 +28,59 @@ header > p
 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin: 10px auto;
+    font-size: 18px;
 }
-header a
+a
 { 
     text-decoration: none;
     color: white;
 }
-header a:hover
+a:hover
 {
     text-decoration: underline;
+}
+p
+{
+    font-family: 'Sriracha', cursive;
+    font-size: 3em;
+    padding: 20px;
+    margin: 10px 50px;
+}
+.texto2
+{
+    color: white;
+    background-color: rgba(0, 0, 0, 0.8);
+    max-width: 800px;
+    
+}
+
+
+div
+{
+    box-shadow: inset 0 0 17px 0px #0000009c;
+    background-repeat: none;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+    margin:  20px;
+    padding: 20px 0px;
+}
+#d1
+{
+    background-image: url(images/background001.jpg);
+}
+#d2
+{
+    background-image: url(images/background002.jpg);
+}
+
+
+footer
+{
+    background-color: black;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 1em;
+    color: white;
+    font-size: 18px;
 }
