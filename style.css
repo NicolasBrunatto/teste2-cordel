@@ -61,7 +61,7 @@ section
     background-repeat: none;
     background-attachment: fixed;
     background-position: right center;
-    box-shadow: inset 0px 0px 5px 0px black;
+    box-shadow: inset 0px 0px 5px 0px #B3FFFFFF;
     
 }
 #d1
